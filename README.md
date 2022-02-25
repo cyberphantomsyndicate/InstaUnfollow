@@ -40,7 +40,7 @@
 
 * `cd InstaUnfollow`
 * `ls`
-* `python3 unfollow.py`
+* `bash start.sh`
 
 
 ## Screenshot:
