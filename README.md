@@ -38,7 +38,7 @@
 
 ## Uses :
 
-* `cd InstaUnfolloww`
+* `cd InstaUnfollow`
 * `ls`
 * `python3 unfollow.py`
 
