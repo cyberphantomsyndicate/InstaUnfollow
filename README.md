@@ -41,7 +41,7 @@
 <br>
 <p align="center">
 <img width="90%" 
-src="check.png"\>
+src="https://github.com/hacker6291/InstaUnfollow/blob/main/check.jpg"\>
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
