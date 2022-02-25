@@ -17,11 +17,11 @@ python3 unfollow.py
 
 ------------------------------------------------------------------------------------------------------------------------
 # Follow Me on
-✅ whatsapp +923439602945
+✅ whatsapp 
 
-✅ Youtube  -https://www.youtube.com/c/SulimanChannel0
+✅ Youtube  -
 
-✅instagram -https://www.instagram.com/sulimanhacker0/
+✅instagram 
 
-✅ Telegram -https://t.me/Cardingfree01
+✅ Telegram 
 
