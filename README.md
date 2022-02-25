@@ -62,7 +62,7 @@ src="https://github.com/hacker6291/InstaUnfollow/blob/main/check.jpg"\>
 
 ✅ Youtube  -
 
-✅instagram 
+✅instagram https://instagram.com/qadirahmad6291?utm_medium=copy_link
 
 ✅ Telegram 
 
