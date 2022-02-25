@@ -21,9 +21,9 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone `
+* `git clone https://github.com/hacker6291/InstaUnfollow.git `
 * `ls`
-* `cd `
+* `cd InstaUnfollow `
 
 
 ## INSTALLATION [Kali Linux] :
@@ -31,10 +31,16 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone `
+* `git clone https://github.com/hacker6291/InstaUnfollow.git`
 * `ls`
-* `cd `
+* `cd InstaUnfollow `
 
+
+## Uses :
+
+* `cd InstaUnfolloww`
+* `ls`
+* `python3 unfollow.py`
 
 
 ## Screenshot:
